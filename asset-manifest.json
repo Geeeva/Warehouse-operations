@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Warehouse-operations/static/css/main.7c5e62c9.chunk.css",
+    "main.js": "/Warehouse-operations/static/js/main.c2d3ec40.chunk.js",
+    "main.js.map": "/Warehouse-operations/static/js/main.c2d3ec40.chunk.js.map",
+    "runtime~main.js": "/Warehouse-operations/static/js/runtime~main.9a02129b.js",
+    "runtime~main.js.map": "/Warehouse-operations/static/js/runtime~main.9a02129b.js.map",
+    "static/js/2.bebe509d.chunk.js": "/Warehouse-operations/static/js/2.bebe509d.chunk.js",
+    "static/js/2.bebe509d.chunk.js.map": "/Warehouse-operations/static/js/2.bebe509d.chunk.js.map",
+    "index.html": "/Warehouse-operations/index.html",
+    "precache-manifest.681a89e0066e11276108b2e8511995af.js": "/Warehouse-operations/precache-manifest.681a89e0066e11276108b2e8511995af.js",
+    "service-worker.js": "/Warehouse-operations/service-worker.js",
+    "static/css/main.7c5e62c9.chunk.css.map": "/Warehouse-operations/static/css/main.7c5e62c9.chunk.css.map",
+    "static/media/main.scss": "/Warehouse-operations/static/media/Roboto-Regular.3e1af3ef.ttf",
+    "static/media/cover.png": "/Warehouse-operations/static/media/cover.f0466ca5.png"
+  }
+}
